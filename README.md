@@ -46,7 +46,6 @@ Training set: 4,000 images (stratified sample)
 
 Validation set: 1,000 images
 
-All images were resized to 224x224, normalized, and augmented during training to improve generalization.
 
 ## 📁Downloading Dataset
 Kaggle Dataset URL: https://www.kaggle.com/c/dogs-vs-cats
